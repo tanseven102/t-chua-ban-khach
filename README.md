@@ -10,8 +10,7 @@ Tool dựng video kênh Chúa (tiếng Anh) tự động: viết bài → đọc
 1. Giải nén file zip, vào thư mục **T-CHUA**, bấm đúp **T-CHUA.exe**.
 2. Lần đầu tool tự cài (10–20 phút), xong tự mở trình duyệt.
 3. Màn hình hiện **MÃ MÁY** → bấm Chép, gửi người bán. Người bán gửi lại **KEY** → dán vào, bấm Kích hoạt.
-4. Trong cửa sổ T-CHUA bấm **Đăng nhập ChatGPT (1 lần)** — nên dùng gói Plus.
-5. Trong tool bấm **🔑 Key**, dán khoá API **của bạn**:
+4. Trong tool bấm **🔑 Key**, dán khoá API **của bạn**:
 
 | Ô | Bắt buộc | Lấy ở đâu |
 |---|---|---|
@@ -22,4 +21,6 @@ Tool dựng video kênh Chúa (tiếng Anh) tự động: viết bài → đọc
 
 Video xong nằm ở `Videos\T-CHUA`. Đóng cửa sổ T-CHUA là tắt tool.
 
-**Bản mới:** tải lại link trên, giải nén, bấm T-CHUA.exe mới. KEY, khoá API, dữ liệu giữ nguyên.
+**Cập nhật:** bấm nút **⬆ Cập nhật** trên trang tool (nút sáng vàng = có bản mới). Tool tự tải, tự thay, tự mở lại. KEY, khoá API, dữ liệu giữ nguyên.
+
+Viết content bằng OpenAI API của bạn — chọn số từ tuỳ ý, 9.000 từ ≈ 1 tiếng đọc. Không cần đăng nhập ChatGPT.
