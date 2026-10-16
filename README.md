@@ -19,7 +19,7 @@ Tool dựng video kênh Chúa (tiếng Anh) tự động: viết bài → đọc
 |---|---|---|
 | OpenAI API key | ✅ | https://platform.openai.com/api-keys |
 | ai33 API key (đọc giọng) | ✅ | https://ai33.pro |
-| Vẽ ảnh: T-TẠO ẢNH (card NVIDIA, cùng máy) | — | mở T-TẠO ẢNH lên là tool tự tìm, không cần khoá |
+| Vẽ ảnh: T-TẠO ẢNH (card NVIDIA, cùng máy) | — | cài T-TẠO ẢNH: https://github.com/tanseven102/t-tao-anh-ban-khach — mở lên là tool tự tìm, không cần khoá |
 | Vẽ ảnh: Khoá API T-AI (Google Flow) | dùng khi không có card | mở T-AI → mục API |
 | Pexels / Pixabay / Anthropic | tuỳ chọn | pexels.com/api · pixabay.com/api/docs |
 
